@@ -1,0 +1,8 @@
+C:\Users\tanulo\Documents\Új mappa\gyakorlati_munka\gyakorlati_munka\obj\Debug\gyakorlati_munka.csproj.AssemblyReference.cache
+C:\Users\tanulo\Documents\Új mappa\gyakorlati_munka\gyakorlati_munka\obj\Debug\gyakorlati_munka.csproj.SuggestedBindingRedirects.cache
+C:\Users\tanulo\Documents\Új mappa\gyakorlati_munka\gyakorlati_munka\obj\Debug\gyakorlati_munka.csproj.CoreCompileInputs.cache
+C:\Users\tanulo\Documents\Új mappa\gyakorlati_munka\gyakorlati_munka\bin\Debug\gyakorlati_munka.exe.config
+C:\Users\tanulo\Documents\Új mappa\gyakorlati_munka\gyakorlati_munka\bin\Debug\gyakorlati_munka.exe
+C:\Users\tanulo\Documents\Új mappa\gyakorlati_munka\gyakorlati_munka\bin\Debug\gyakorlati_munka.pdb
+C:\Users\tanulo\Documents\Új mappa\gyakorlati_munka\gyakorlati_munka\obj\Debug\gyakorlati_munka.exe
+C:\Users\tanulo\Documents\Új mappa\gyakorlati_munka\gyakorlati_munka\obj\Debug\gyakorlati_munka.pdb
